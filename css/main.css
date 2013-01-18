@@ -1,0 +1,63 @@
+/**
+ * Main Styles for the SoundCloud Player.
+ * Author: Allard van Helbergen (allard@vanhelbergen.com)
+ */
+
+
+html {
+  background: -moz-linear-gradient(top,  rgba(255,146,10,1) 0%, rgba(255,175,75,0.12) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,146,10,1)), color-stop(100%,rgba(255,175,75,0.12))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  rgba(255,146,10,1) 0%,rgba(255,175,75,0.12) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  rgba(255,146,10,1) 0%,rgba(255,175,75,0.12) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  rgba(255,146,10,1) 0%,rgba(255,175,75,0.12) 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  rgba(255,146,10,1) 0%,rgba(255,175,75,0.12) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff920a', endColorstr='#1fffaf4b',GradientType=0 ); /* IE6-9 */
+  padding: 60px 0 40px;
+}
+
+body {
+  padding: 60px 0 40px;
+}
+
+.container {
+}
+
+.current {
+  font-weight: bold;
+}
+
+.player {
+  min-height: 171px;
+}
+
+.loader {
+  background: url(../img/ajax-loader.gif) top center no-repeat;
+}
+
+.queue-item-controls {
+  /*float: right;*/
+}
+
+#scp-queue {
+}
+
+#scp-search {
+}
+
+#scp-search-results {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
