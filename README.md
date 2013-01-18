@@ -2,7 +2,8 @@ SoundCloud Player
 =================
 
 A homemade player for SoundCloud sounds.
-Live version: http://www.vanhelbergen.com/soundcloud-player/
+
+Live version: http://www.vanhelbergen.com/labs/soundcloud-player/
 
 Instructions
 ------------
